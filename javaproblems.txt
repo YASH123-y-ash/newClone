@@ -1,0 +1,104 @@
+1>WAJp to read integer from a user and print if its digit or a number.
+2>check user enterd number is two digit number or not.
+3>WAJP to read one integer number from the user if that number is divisible by 3 print foot
+if number is divisible by 5 print ball,if number is divisble by 3&5 print football.otherwise print that number.
+4>WAJP to read the integer number from the user and print it is a three digit num or not.
+5>WAJP to read three integer number from the user and print smallest among those three number.
+6>WAJP to read four floating point values from the user and print biggest among those four numbers.
+7>WAJP to year from the user and print it is leap year or not.
+8>waJP to read three distinct integer number from the user and print middle values among those three numbers.
+9>WAJP to read user entered number is even or odd by using conditinal operator or ternary operator.
+10>print a number negative or positive by using ternary operator.
+11>print biggest number from three number by using ternary operator.
+12>WAJP to read the day-number from the user and print corresponding day-name.
+13>check the number is even or odd by using switch case.
+14>WAJP to check the number is negative or positive by using switch case.
+15>WAJP to read a month number from the user and print the corresponding days in that month.
+***************************************************************************************************************************
+16>WAJP to ask the user to guess the number between particular range and generate one random number in that range if randam number and user gussed number is same then display "user won the game.
+17>WAJP to read the month number from the user and print the corresponding month name.
+18>WAJP to read the four subject marks from the user and print the result like distinction,first class,second class,pass or fail.
+19>WAJP  to ask the user to guess the number between 10 to 19 and generate one number between 10 to 19 and play the game.
+20>WAJp to read the characters from the user and print it is a vowel or consonants.
+21>WAJP to read the charactr fom the user print either it is upper case or lower case letter,or digit,special character. 
+22> write a java program to how many chanches a user take guess the number between particular range.
+23>WAJP to flip the dice by two user and see who is the winner.
+*****************************************************************************
+24>.Ask user to enter age, sex ( M or F ), marital status ( Y or N ) and then using following rules print their place of service.
+if employee is female, then she will work only in urban areas.
+if employee is a male and age is in between 20 to 40 then he may work in anywhere
+if employee is male and age is in between 40 t0 60 then he will work in urban areas only.
+And any other input of age should print "ERROR".
+****************************************************************************
+25>WAJP to display the numbers between 1 to n.
+26>WaJP to calculate the sum of first n natural numbers.
+27>WAJP to display the number in range in descending order upto 1.
+28>WAJP to calculate the factorial of n.
+29>WAJP to print the even numbers between 1 to n.
+30>WAJP to print even numbers between n to 1.
+31>WAJP to print the odd numbers between 1 to n.
+32>WAJP to print the odd numbers between n to 1.
+33>WAJP calculate the sum of odd numbers and eve44>n numbers within user enterd number.
+34>wajp to display how many odd numbers and even numbers within n.
+35>WaJP to print all the numbers between 1 to n which are divisible by 3.
+36>WAJP to display how many divisors(factors) for user enterd number.
+37>WAJP to check user enterd number is prime number.
+38>WAJP to check user enterd number is a perfect number is not.(sum of divisor == number).
+39>Wajp to read the number from the user and print how many digits are there in number.
+40>WAJP to calculate the sum of digits in the number.
+41>WAJP to calculate the square of individual digits.
+42>WAJP to check user enterd number is armstrong number or not.
+43>WAJP to check user enterd number is strong number or not.
+***********************************************************************************************************
+44>WAJP to display the multiplication table of user enterd number.
+45>WAJP  to print sanju if number is divisible by 3.print geeta if number is divivsible by 5 print sanju weds geeta if number divisible by both 3&5.otherwise print that number.(in a given range).
+46>WAJP to calculate the product of digits.
+47>WAJp to print the average of digits.
+48>WAJP to count how many even digits and odd digits in the number.
+***********************************************************************************************************
+49>WAJP to define a method to find area of circle and circumference y using method.
+50>define a method return how many digits present in passed number.
+51>define a method to return sum of digits.
+52>define a method to return true if the number is prime.otherwise false.
+53>define a method to display the area and perimeter of rectangle.(display l and b)
+54> define a method to return sum of n natural number.
+************************************************************************************************************
+55>define a  method to return true if the number is palindrom otherwise false.
+56>WAJP to define a method to return n to the power of p.
+57>WAJP to check user enterd number is Armstrong number or not.(sum of power of its digit =number;
+(power =number of its digit)).
+58> check the number is disarium number or not.(sum of power of its digits by their respective positions)
+59>WAJP to define a method to user ennterd number is strong number or not.(sum of factorial of digit of number=number).
+60>WAJP to define a method to print the how many prime numbers within n.
+61>define a method to return nth fibonacci number.(fibonacci series=0,1,1,2,3,5,8,13,21......)
+62>WAjp to print all three digit palindrom numbers.(reverse of number=number)
+63>waJP to print how many armstrong number within 1000.
+64>print all the disarium number within 1000.(sum of power of individual digits at corresponding position=number)
+65>Wajp to convert decimal to binary.
+*************************************************************************************************************************
+                                  ARRAY
+66>wajp to read n names from the user and print last name to first name.
+67>WAjp to read n integer value from the user and print the sum of elements.
+68>Wajp to read n product price and print the avg price of product.
+69>WAJP to read n integer elements from the user and print the biggest element.
+70>Wajp to read n floating point value from the user and print smallest one.
+71>WAJP to read n integer value and print how many prime numbers in array.
+72>define a method to reverse an array.
+73>define a method to return count of even numbers and odd number.
+74>Wajp to merge two array elements to single array.
+75>merge two array elements in a single array in zigzag order. 
+76>merge two sorted array in sorted format.
+77>WAJP to insert the element in specified index.
+78>delete the element from specified index.
+79>add one array element inside another array with specified index.
+80>define a method to print the frequency (occuerence)of each element inside the array.
+81>define a method to return common(intersection) element between two arraay.
+82>print the element from the first array which are not present in the second array.
+83>define a method to return the difference between biggest and smallest from the array.
+84>define a method to return highest sum of two contigues elements.
+85>define a method to return nth biggest element from the array.
+86>define a method to swap first half element with second half.
+input-23,45,17,82,36//first iteration should be--45,23,17,36,82***second iteration should be--swipe 1st half with 2nd half
+output-82,36,17,23,45.
+
+
